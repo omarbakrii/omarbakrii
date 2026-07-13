@@ -34,6 +34,22 @@
 
 ---
 
+## 🎯 Core Competencies & Skills
+
+**Domain Knowledge**<br>
+![Supply Chain Management](https://img.shields.io/badge/Supply_Chain_Management-005B9A?style=for-the-badge&logo=sap&logoColor=white)
+![Operations Research](https://img.shields.io/badge/Operations_Research-D14836?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Predictive Maintenance](https://img.shields.io/badge/Predictive_Maintenance-E97627?style=for-the-badge&logo=databricks&logoColor=white)
+![Digital Twin](https://img.shields.io/badge/Digital_Twin-217346?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Leadership & Management**<br>
+![Strategic Planning](https://img.shields.io/badge/Strategic_Planning-5C2D91?style=for-the-badge&logo=trello&logoColor=white)
+![Team Leadership](https://img.shields.io/badge/Team_Leadership-181717?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Cross-Functional Collaboration](https://img.shields.io/badge/Cross--Functional_Teams-0077B5?style=for-the-badge&logo=jira&logoColor=white)
+![Agile Workflows](https://img.shields.io/badge/Agile_Workflows-E16737?style=for-the-badge&logo=agile&logoColor=white)
+
+---
+
 ## 🎓 Education
 
 | 🏛 Degree | 🎓 University | 📅 Graduation |
