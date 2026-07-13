@@ -1,69 +1,65 @@
-<h1 align="center">Hi 👋, I'm Omar Bakri</h1>
+<div align="center">
 
-<h3 align="center">Supply Chain • Analytics • Optimization</h3>
+# Omar Bakri
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Industrial+Engineering+Student;Supply+Chain+Analytics;Data+Analytics;Digital+Twin+%26+Optimization;Python+%7C+SQL+%7C+Power+BI+%7C+Gurobi" />
-</p>
+### Industrial Engineering Student | Supply Chain • Analytics • Optimization
 
-<p align="center">
-<a href="https://www.linkedin.com/in/omarbakri2002"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:omarr.bakrri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Resume-222222?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&center=true&vCenter=true&width=900&color=7AA2F7&lines=Industrial+Engineering+Student+at+E-JUST;Supply+Chain+Analytics;Operations+Optimization;Digital+Twin+%26+AI+Driven+Manufacturing;Python+%7C+SQL+%7C+Power+BI+%7C+Gurobi+%7C+AnyLogic" alt="Typing SVG" />
 
-# 👨‍💻 About Me
-- 🎓 Senior Industrial Engineering Student at Egypt-Japan University of Science and Technology (E‑JUST)
-- 📊 Passionate about Supply Chain, Manufacturing Systems, Data Analytics and AI-driven decision support.
-- 🤖 Currently developing **DA‑PdM‑IPS** (Demand-Aware Predictive Maintenance & Integrated Production Scheduling).
-- 🌱 Interested in Supply Chain Analytics, Optimization, Digital Twins and Forecasting.
+<br>
 
-# 🎓 Education
-**Egypt-Japan University of Science and Technology (E‑JUST)**  
-B.Sc. Industrial Engineering (Expected Jan 2027)
+<a href="https://www.linkedin.com/in/omarbakri2002">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:omarr.bakrri@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="./Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-0A192F?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
+</a>
 
-# 💼 Experience
-| Company | Role |
-|---|---|
-| Fine Hygienic Holding | Warehouse Operations Intern |
-| Kellogg's Tolaram Noodles | Data Analyst |
-| Ezz Steel | Planning Intern |
-| NTI | Data Analyst Intern |
-| Dreem Mashreq Foods | Quality Improvement Engineer |
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=omarbakrii&style=flat-square&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile Views" />
 
-# 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+</div>
 
-**Optimization & Simulation:** Gurobi • AnyLogic • Arena • MATLAB • Git • GitHub
+---
 
-# 🚀 Featured Projects
-- 🚗 DA‑PdM‑IPS
-- 🚚 VRPSPDTW Optimization
-- 📈 Demand Forecasting Platform
-- 📊 Power BI Portfolio
+## 👨‍💻 About Me
 
-# 📊 GitHub Stats
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omarbakrii&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarbakrii&layout=compact&theme=tokyonight"/>
-</p>
+- 🎓 **Senior Industrial Engineering Student** – Egypt-Japan University of Science and Technology (E‑JUST)
+- 📊 Passionate about **Supply Chain Analytics, Manufacturing Systems**, and **Data Analytics**
+- 🤖 Building AI-powered manufacturing decision systems
+- 🎯 Deeply interested in *Planning, Operations, Supply Chain, Optimization,* and *Digital Twins*
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=omarbakrii&theme=tokyonight"/>
-</p>
+---
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omarbakrii&theme=tokyo-night"/>
-</p>
+## 🎓 Education
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=omarbakrii&style=for-the-badge"/>
-</p>
+| 🏛 Degree | 🎓 University | 📅 Graduation |
+| :--- | :--- | :--- |
+| **B.Sc. Industrial Engineering** | Egypt-Japan University of Science and Technology (E-JUST) | **Jan 2027** |
 
-## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/omarbakri2002
-- Email: omarr.bakrri@gmail.com
+<details>
+<summary><b>📚 Relevant Coursework (Click to expand)</b></summary>
+<br>
+
+- Supply Chain Management
+- Operations Research I & II
+- Production & Operations Management
+- Data Analysis
+- Systems Dynamics
+</details>
+
+---
+
+## 💼 Experience Timeline
+
+```yaml
+2025
+ │
+ ├── 🏢 Fine Hygienic Holding ─────── Supply Chain Analyst Intern
+ ├── 🍜 Kellogg's Tolaram Noodles ─── Data Analyst
+ ├── 📡 National Telecom Institute ── Data Analyst Intern
+ ├── 🧁 Dreem Mashreq Foods ───────── Quality Improvement Engineer
+ └── 🏗️ Al Ezz Dekheila Steel ─────── Planning Engineer
