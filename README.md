@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Omar Bakri</h1>
-
-<h3 align="center">Supply Chain • Analytics • Optimization</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Industrial+Engineering+Student;Supply+Chain+Analytics;Data+Analytics;Digital+Twin+%26+Optimization;Python+%7C+SQL+%7C+Power+BI+%7C+Gurobi" />
+  <img src="./photo.png" alt="Omar Bakri Banner" width="100%">
 </p>
 
 <p align="center">
